@@ -1,0 +1,74 @@
+Diketahui :
+d = 6
+r = 
+Rumus : luas = 22 * (r*r/7): 
+Luas lingkaran anda: 28.259999999999998
+--------------------------
+Diketahui :
+d = 6
+r = 3.0
+Rumus : luas = 22 * (r*r/7): 
+Luas lingkaran anda: 28.259999999999998
+--------------------------
+Diketahui :
+d = 6
+r = 3.0
+Rumus : luas = 22 * (r*r/7): 
+Luas lingkaran anda: 28.259999999999998
+--------------------------Diketahui :
+d = 6
+r = 3.0
+Rumus 1 : luas = 22 * (r*r/7) 
+Rumus 2 : luas = 22 * r  *r 
+Luas lingkaran anda: 28.259999999999998
+--------------------------
+Diketahui :
+d = 6
+r = 3.0
+Rumus 1 : luas = 22 * (r*r/7) 
+Rumus 2 : luas = 22 * r  *r 
+Luas lingkaran anda: 28.259999999999998
+--------------------------
+Diketahui :
+d = 7
+r = 3.5
+Rumus 1 : luas = 22 * (r*r/7) 
+Rumus 2 : luas = 22 * r  *r 
+Luas lingkaran anda: 38.465
+--------------------------
+Diketahui :
+d = 5
+r = 2.5
+Rumus 1 : luas = 22 * (r*r/7) 
+Rumus 2 : luas = 22 * r  *r 
+Luas lingkaran anda: %.2f19.625
+--------------------------
+Diketahui :
+d = 5
+r = 2.5
+Rumus 1 : luas = 22 * (r*r/7) 
+Rumus 2 : luas = 22 * r  *r 
+Luas lingkaran anda: 19.63
+--------------------------
+Diketahui :
+d = 7
+r = 3.5
+Rumus 1 : luas = 22 * (r*r/7) 
+Rumus 2 : luas = 22 * r  *r 
+Luas lingkaran anda: 38.47
+--------------------------
+Diketahui :
+d = 7
+r = 3.5
+Rumus 1 : luas = 22 * (r*r/7) 
+Rumus 2 : luas = 22 * r  *r 
+Luas lingkaran anda: 38.47
+--------------------------
+Diketahui :
+d = 7
+r = 3.5
+Rumus 1 : luas = 22 * (r*r/7) 
+Rumus 2 : luas = 22 * r  *r 
+Luas lingkaran anda: 38.47
+
+--------------------------

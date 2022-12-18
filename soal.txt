@@ -1,0 +1,21 @@
+FINAL PROJECT
+---------------------
+Waktu Pengerjaan : 1 minggu
+
+Tugas :
+Buat aplikasi untuk menghitung luas bangun 
+1. lingkaran
+2. segitiga
+3. ...
+---------------------
+Note:
+Data dapat disimpan
+output dipisahkan 1 1
+	outputnya: 
+	- lingkarang.txt
+	- segitiga.txt
+	- ...
+--------------------
+Penilaian :
+1. seberapa banyak materi yang di presentasikan (dapat modify tugasnya)
+2. cara menjelaskan

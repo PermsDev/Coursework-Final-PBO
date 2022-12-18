@@ -1,0 +1,14 @@
+Diketahui :
+sisi = 2
+Rumus : sisi * sisi
+Luas Persegi anda: 4
+-------------------------------: Diketahui :
+sisi = 3
+Rumus : sisi * sisi
+Luas Persegi anda: 9
+-------------------------------
+Diketahui :
+sisi = 4
+Rumus : sisi * sisi
+Luas Persegi anda: 16
+-------------------------------

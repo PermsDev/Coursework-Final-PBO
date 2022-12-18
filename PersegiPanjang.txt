@@ -1,0 +1,10 @@
+Diketahui : 
+p : 2
+l : 4
+Luas Persegi Panjang anda : 8
+Diketahui : 
+p : 4
+l : 7
+Rumus : p . l 
+Luas Persegi Panjang anda : 28
+-------------------------------: 

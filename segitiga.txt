@@ -1,0 +1,30 @@
+Luas segitiga anda: 8.0
+Diketahui :
+a = 3
+t = 3
+Rumus : alas * tinggi 
+Luas segitiga anda: 7.5
+---------------------------------
+Diketahui :
+a = 3
+t = 3
+Rumus : alas * tinggi 
+Luas segitiga anda: 6.0
+--------------------------------- :
+a = 4
+t = 4
+Rumus : 0,5 * (alas * tinggi) 
+Luas segitiga anda: 12.0
+---------------------------------
+ :
+a = 3
+t = 3
+Rumus : 0,5 * (alas * tinggi) 
+Luas segitiga anda: 12.0
+---------------------------------
+ :
+a = 7
+t = 7
+Rumus : 0,5 * (alas * tinggi) 
+Luas segitiga anda: 21.0
+---------------------------------
